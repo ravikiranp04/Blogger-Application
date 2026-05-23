@@ -4,7 +4,7 @@ A full-stack blogging platform with a React.js frontend and Node.js/Express back
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -15,7 +15,7 @@ A full-stack blogging platform with a React.js frontend and Node.js/Express back
 
 ---
 
-## ✨ Features
+## Features
 
 - User registration and login with JWT authentication
 - Create, edit, and delete blog posts
@@ -25,7 +25,7 @@ A full-stack blogging platform with a React.js frontend and Node.js/Express back
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ The app will be available at `http://localhost:3000`.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Blogger-Application/
@@ -75,7 +75,7 @@ Blogger-Application/
 
 ---
 
-## 👤 Author
+## Author
 
 **Ravikiran Pedapalli**  
 [Linkedin](https://linkedin.com/in/pedapalli-ravi-kiran-ab5006254)
