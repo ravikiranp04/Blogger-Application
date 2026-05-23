@@ -78,4 +78,4 @@ Blogger-Application/
 ## 👤 Author
 
 **Ravikiran Pedapalli**  
-[Linkedin](https://linkedin.com/in/pedapalli-ravi-kiran-ab5006254) · [GitHub](https://github.com/ravikiranp04)
+[Linkedin](https://linkedin.com/in/pedapalli-ravi-kiran-ab5006254)
